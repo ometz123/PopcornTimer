@@ -14,7 +14,7 @@ export default function PopcornTimer(props) {
                 placeholder={"grams"}
             />
             <Text>
-                {"\n"}
+                {"Hello\n"}
             </Text>
             <Button title="Start" onPress={() => { console.log("start"); }} />
         </View>
